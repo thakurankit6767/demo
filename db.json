@@ -1,5 +1,5 @@
 {
-  "restaurants": [
+  "hunger": [
     {
       "name": "Swiggy DREWPARK",
       "rating": "4.8",
@@ -156,6 +156,7 @@
       "total_votes": 266,
       "reviews": 512,
       "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/k5l7kgvyipt806imbduq",
+      "time_for_prep": "30 min",
       "price": 800,
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
@@ -285,6 +286,81 @@
       }
     },
     {
+      "name": "Kofi DREWPARK",
+      "rating": "3.8",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/satobxlnlz66nzdq4uwe",
+      "time_for_prep": "30 min",
+      "price": 700,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+     {
+      "name": "Kofi DREWPARK",
+      "rating": "3.8",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/satobxlnlz66nzdq4uwe",
+      "time_for_prep": "30 min",
+      "price": 700,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+     {
+      "name": "Kofi DREWPARK",
+      "rating": "3.8",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/satobxlnlz66nzdq4uwe",
+      "time_for_prep": "30 min",
+      "price": 700,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+     {
+      "name": "Kofi DREWPARK",
+      "rating": "3.8",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/satobxlnlz66nzdq4uwe",
+      "time_for_prep": "30 min",
+      "price": 700,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+     {
+      "name": "Kofi DREWPARK",
+      "rating": "3.8",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/satobxlnlz66nzdq4uwe",
+      "time_for_prep": "30 min",
+      "price": 700,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+     {
       "name": "Kofi DREWPARK",
       "rating": "3.8",
       "total_votes": 766,
